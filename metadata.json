@@ -1,0 +1,6 @@
+{
+  "name": "Гаухар Одабай — Графический дизайнер",
+  "description": "Личный сайт-визитка и портфолио графического дизайнера Гаухар Одабай из Астаны. Постеры, афиши, логотипы, иллюстрации и сайты.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
